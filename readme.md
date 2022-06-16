@@ -10,6 +10,18 @@
 - [appdynmaic (思科)](https://www.appdynamics.com/)
 - [火山引擎 apmplus](https://www.volcengine.com/product/apmplus)
 # 博客
+
+## 基础知识
+
+### Method Trace
+- [Android 平台下的MethodTrace 实现解析](https://juejin.cn/post/7107137302043820039)
+## 性能监控/优化 分析实践
+
+### 卡顿
+- [诺比亚团队:Android 卡顿掉帧 原理、监控、实战](https://www.jianshu.com/p/f1a777551b70)
+
+### OOM
+
 ## 性能可观测性概念、设计
 
 - [observability it's not what you think](https://www.splunk.com/en_us/blog/devops/observability-it-s-not-what-you-think.html)
