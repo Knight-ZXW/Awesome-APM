@@ -13,6 +13,9 @@
 
 ## 基础知识
 
+### Hook相关 基础库
+- [绕过hiddenApi限制实现库 Republic](https://github.com/whulzz1993/RePublic)
+
 ### Method Trace
 - [Android 平台下的MethodTrace 实现解析](https://juejin.cn/post/7107137302043820039)
 ## 性能监控/优化 分析实践
