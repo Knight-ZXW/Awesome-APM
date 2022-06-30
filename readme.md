@@ -23,6 +23,7 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 
 ### Method Trace
 - [Android 平台下的MethodTrace 实现解析](https://juejin.cn/post/7107137302043820039)
+- [字节跳动基于StackVisitor抓栈的方案](https://blog.csdn.net/ByteDanceTech/article/details/119621240)
 ## 性能监控/优化 分析实践
 
 ### 卡顿
