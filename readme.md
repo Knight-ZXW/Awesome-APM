@@ -11,7 +11,18 @@
 - [火山引擎 apmplus](https://www.volcengine.com/product/apmplus)
 # 博客
 
-## 基础知识
+## APM 概念
+
+### 平台架构设计基础
+- [系统可观测性的三个基础:Log Metric 以及 Trace](https://cribl.io/blog/logs-events-metrics-and-traces-oh-my/)
+
+### 性能可观测性概念、设计
+
+- [observability it's not what you think](https://www.splunk.com/en_us/blog/devops/observability-it-s-not-what-you-think.html)
+- [Supporting Real User Monitoring Events in OpenTelemetry](https://github.com/open-telemetry/oteps/issues/169#)
+- [unified cross platform performance metrics (by slack team)](https://slack.engineering/unified-cross-platform-performance-metrics/)
+
+## 客户端监控基础知识
 >覆盖 APM监控相关基础知识的学习资源
 
 ### Hook相关 基础库
@@ -34,11 +45,6 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 ## APM平台建设
 >覆盖APM平台建设的相关设计理念、参考样例
 
-### 性能可观测性概念、设计
-
-- [observability it's not what you think](https://www.splunk.com/en_us/blog/devops/observability-it-s-not-what-you-think.html)
-- [Supporting Real User Monitoring Events in OpenTelemetry](https://github.com/open-telemetry/oteps/issues/169#)
-- [unified cross platform performance metrics (by slack team)](https://slack.engineering/unified-cross-platform-performance-metrics/)
 
 ### 性能可观测性落地样例参考
 
@@ -52,10 +58,16 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [sentry:  why use clickhouse](https://blog.sentry.io/2019/05/16/introducing-snuba-sentrys-new-search-infrastructure#why-clickhouse)
 
 ## APM 开源项目
-> APM开源项目学习
+###  APM相关开源组件/系统
+- (腾讯-Matrix 覆盖大部分的指标监控)[https://github.com/search?q=matrix]
+- (爱奇艺-Crash及ANR监控)[https://github.com/iqiyi/xCrash]
+- (字节-Native层内存泄漏检测)[https://github.com/bytedance/memory-leak-detector]
+- (字节-线上sysTrace)[https://github.com/bytedance/btrace]
+- (快手-OOM检测)[https://github.com/KwaiAppTeam/KOOM]
+- (字节-Hprof内存快照裁剪压缩)[https://github.com/bytedance/tailor]
+
 
 ### APM领域开源项目组织
 - [setry 开源APM前后端](https://github.com/getsentry/sentry)
 - [lightstep 开源部分](https://github.com/lightstep)
-
 
