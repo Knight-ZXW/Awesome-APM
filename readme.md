@@ -37,6 +37,9 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [字节跳动基于StackVisitor抓栈的方案](https://blog.csdn.net/ByteDanceTech/article/details/119621240)
 ## 性能监控/优化 分析实践
 
+### cpu、内存、fps、io
+- [Android高版本采集系统CPU使用率的方式](https://juejin.cn/post/7135034198158475300)
+
 ### 卡顿
 - [诺比亚团队:Android 卡顿掉帧 原理、监控、实战](https://www.jianshu.com/p/f1a777551b70)
 
