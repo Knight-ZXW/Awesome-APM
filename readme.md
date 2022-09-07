@@ -1,6 +1,7 @@
 # 优秀博客站点
 - [slack 技术博客](https://slack.engineering/)
 - [sentry 团队技术博客](https://blog.sentry.io/?utm_source=google&utm_medium=cpc&utm_campaign=9575834316&utm_content=g&utm_term=sentry&gclid=CjwKCAjw682TBhATEiwA9crl3yQC4mrsWFy3T7VqohWwc20EZVGchpZtlknaP7ahTOAA_ml7FDNuVhoCthYQAvD_BwE)
+- [微信终端开发团队](https://cloud.tencent.com/developer/user/598196)
 
 # APM 竞品站点
 - [TOP100 可观测性&APM 产品](https://haydenjames.io/20-top-server-monitoring-application-performance-monitoring-apm-solutions/)
@@ -37,11 +38,20 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [字节跳动基于StackVisitor抓栈的方案](https://blog.csdn.net/ByteDanceTech/article/details/119621240)
 ## 性能监控/优化 分析实践
 
-### cpu、内存、fps、io
+### cpu
 - [Android高版本采集系统CPU使用率的方式](https://juejin.cn/post/7135034198158475300)
+
+### fps
+- [淘宝 Android 帧率采集与监控详解](https://developer.aliyun.com/article/860539)
+
+### io
+
+### memory
 
 ### 卡顿
 - [诺比亚团队:Android 卡顿掉帧 原理、监控、实战](https://www.jianshu.com/p/f1a777551b70)
+- [微信Android客户端的卡顿监控方案](https://cloud.tencent.com/developer/article/1846821)
+- [监控Android Looper Message调度的另一种姿势](https://juejin.cn/post/7139741012456374279)
 
 ### OOM
 
