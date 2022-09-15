@@ -60,6 +60,7 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 
 
 ### 性能可观测性落地样例参考
+- [淘宝客户端可观测体系升级实战](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247494767&idx=1&sn=86ce1d22a30d453676fffdc2458d02b9&source=41#wechat_redirect)
 - [Shoppe - 可观测性数据分析平台设计与实践](https://mp.weixin.qq.com/s/j6tAH6YdBuZu2PzE68xy-A)
 - [Tracing at slack, thinkg in causal graphs](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
 - [customize the android instrumentation](https://docs.appdynamics.com/21.3/en/end-user-monitoring/mobile-real-user-monitoring/instrument-android-applications/customize-the-android-instrumentation)
