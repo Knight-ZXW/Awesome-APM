@@ -37,6 +37,8 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [Android 平台下的MethodTrace 实现解析](https://juejin.cn/post/7107137302043820039)
 - [字节跳动基于StackVisitor抓栈的方案](https://blog.csdn.net/ByteDanceTech/article/details/119621240)
 ## 性能监控/优化 分析实践
+### 启动优化
+- [抖音Android性能优化系列：启动优化实践](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
 
 ### cpu
 - [Android高版本采集系统CPU使用率的方式](https://juejin.cn/post/7135034198158475300)
