@@ -26,6 +26,9 @@
 ## 客户端监控基础知识
 >覆盖 APM监控相关基础知识的学习资源
 
+### 系列博客
+- [Android vitals实现细节](https://dev.to/pyricau/android-vitals-what-time-is-it-2oih)
+
 ### Hook相关 基础库
 - [绕过hiddenApi限制实现库 Republic](https://github.com/whulzz1993/RePublic)
 
