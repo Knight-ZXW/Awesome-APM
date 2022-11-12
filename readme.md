@@ -5,7 +5,8 @@
 
 # APM 竞品站点
 - [TOP100 可观测性&APM 产品](https://haydenjames.io/20-top-server-monitoring-application-performance-monitoring-apm-solutions/)
-- [sentry](https://sentry.io/)
+- [firebase](https://firebase.google.com/docs/perf-mon) [开源SDK](https://github.com/firebase/firebase-android-sdk)
+- [sentry](https://sentry.io/) [开源SDK](https://github.com/getsentry/sentry-java)
 - [Lightstep](https://docs.lightstep.com/)
 - [splunk](https://www.splunk.com/)
 - [appdynmaic (思科)](https://www.appdynamics.com/)
