@@ -73,6 +73,7 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [inlineHook](https://github.com/bytedance/android-inline-hook)
 ### 启动优化
 - [抖音Android性能优化系列：启动优化实践](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
+- [基于消息调度优化启动速度实践](https://juejin.cn/post/7217664665090080826)
 
 ### 锁等待
 - [抖音 Java锁监控、优化](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
