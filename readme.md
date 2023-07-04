@@ -74,11 +74,13 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 ### 启动优化
 - [抖音Android性能优化系列：启动优化实践](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
 - [基于消息调度优化启动速度实践](https://juejin.cn/post/7217664665090080826)
+- [Android冷启动优化的3个小案例](https://juejin.cn/post/7249228528573513789)
 
 ### 锁等待
 - [抖音 Java锁监控、优化](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
 ### cpu
 - [Android高版本采集系统CPU使用率的方式](https://juejin.cn/post/7135034198158475300)
+- [Android平台下的CPU利用率优化实践](https://juejin.cn/post/7243240618788388922)
 
 ### fps
 - [淘宝 Android 帧率采集与监控详解](https://developer.aliyun.com/article/860539)
