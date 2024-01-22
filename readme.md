@@ -85,6 +85,9 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 ### fps
 - [淘宝 Android 帧率采集与监控详解](https://developer.aliyun.com/article/860539)
 
+### 流量
+- [Android应用流量监控实践](https://juejin.cn/post/7292217232187883574)
+
 ### io
 
 ### memory
