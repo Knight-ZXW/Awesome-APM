@@ -75,6 +75,14 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 - [抖音Android性能优化系列：启动优化实践](https://blog.csdn.net/ByteDanceTech/article/details/123748980)
 - [基于消息调度优化启动速度实践](https://juejin.cn/post/7217664665090080826)
 - [Android冷启动优化的3个小案例](https://juejin.cn/post/7249228528573513789)
+### 卡顿
+- [诺比亚团队:Android 卡顿掉帧 原理、监控、实战](https://www.jianshu.com/p/f1a777551b70)
+- [微信Android客户端的卡顿监控方案](https://cloud.tencent.com/developer/article/1846821)
+- [监控Android Looper Message调度的另一种姿势](https://juejin.cn/post/7139741012456374279)
+### ANR
+- [OPPO  Android ANR问题总结](https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg)
+- [得物ANR监控平台设计](https://juejin.cn/post/7009297034440081422?searchId=2024012216040609C652BC9A5802FB0B99)
+### OOM
 
 ### 锁等待
 - [抖音 Java锁监控、优化](https://blog.csdn.net/ByteDanceTech/article/details/125863436)
@@ -92,12 +100,7 @@ on the new Android runtime ART](https://publications.cispa.saarland/143/1/arthoo
 
 ### memory
 
-### 卡顿
-- [诺比亚团队:Android 卡顿掉帧 原理、监控、实战](https://www.jianshu.com/p/f1a777551b70)
-- [微信Android客户端的卡顿监控方案](https://cloud.tencent.com/developer/article/1846821)
-- [监控Android Looper Message调度的另一种姿势](https://juejin.cn/post/7139741012456374279)
 
-### OOM
 
 ## APM平台建设
 >覆盖APM平台建设的相关设计理念、参考样例
